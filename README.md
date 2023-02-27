@@ -32,8 +32,8 @@ Terminar el programa.
 
 # Integrantes:
 
-Lucianny Alvarado CI: 31.038.315
-Andrew González   CI: 32.465.826
-Nairobis Salcedo  CI: 30.997.306
-Ygor Rivera       CI: 30.453.868
-Samuel Cortez     CI: 27.158.842
+1. Lucianny Alvarado CI: 31.038.315
+2. Andrew González   CI: 32.465.826
+3. Nairobis Salcedo  CI: 30.997.306
+4. Ygor Rivera       CI: 30.453.868
+5. Samuel Cortez     CI: 27.158.842
