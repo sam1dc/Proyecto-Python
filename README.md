@@ -12,12 +12,12 @@ debe cumplir con mínimo 8 dígitos y 10 dígitos máximo (con caracteres como u
 de acceso de un banco).
 
 El Sistema debe preguntar al usuario por una opción del siguiente menú:
-(1) Añadir cliente,
-(2) Eliminar cliente,
-(3) Mostrar cliente,
-(4) Listar todos los clientes,
-(5) Listar clientes Tercera edad,
-(6) Terminar.
+1. Añadir cliente.
+2. Eliminar cliente.
+3. Mostrar cliente.
+4. Listar todos los clientes.
+5. Listar clientes Tercera edad.
+6. Terminar.
 
 En función de la opción elegida el programa deberá hacer lo siguiente:
 Preguntar los datos del cliente, crear un diccionario con los datos y añadirlo a la base de
