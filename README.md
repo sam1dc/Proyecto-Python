@@ -1,4 +1,4 @@
-## Proyecto-Python
+# Proyecto-Python
 
 Escribir un programa que permita gestionar la base de datos de clientes de una empresa.
 Los clientes se guardarán en una estructura de datos diccionario, en el que la clave de
@@ -30,7 +30,7 @@ Mostrar la lista de clientes de Tercera edad o Preferentes de la base de datos c
 Cédula de Identidad y nombre.
 Terminar el programa.
 
-# Integrantes:
+## Integrantes:
 
 * Lucianny Alvarado CI: 31.038.315
 * Andrew González   CI: 32.465.826
